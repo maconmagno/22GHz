@@ -5,10 +5,10 @@ If any images are missing or if you would like a different lower resolution imag
 
 I would also be happy to answer any questions about the images through email or through the Discussions on GitHub. 
 
-Current BASS Radio Surveys: 
-  1. 2013 - Original C-Array Survey @ 22 GHz with ~1" resolution                    (need to cite)
-  2. 2014 - Low Z Survey @ 22 GHz with ~1" resolution                               (need to cite)
-  3. 2015 - B-Array Survey @ 22GHz with ~0.03" resolution                           (need to cite)
-  4. 2017 - Continuation of the Original C-Array @ 22 GHz with ~1" resolution       (need to cite)
-  5. 2018 - Run 1 continuation of the Original C-Array @ 22 GHz with ~1" resolution (need to cite)
-  6. 2020 - Run 2 continutaion of the Original C-Array @ 22 GHz with ~1" resolution (need to cite)
+Current BASS Radio Surveys through the Very Large Array (VLA): 
+  1. **2013** - Original C-Array Survey @ 22 GHz with ~1" resolution                    (need to cite)
+  2. **2014** - Low Z Survey @ 22 GHz with ~1" resolution                               (need to cite)
+  3. **2015** - B-Array Survey @ 22GHz with ~0.03" resolution                           (need to cite)
+  4. **2017** - Continuation of the Original C-Array @ 22 GHz with ~1" resolution       (need to cite)
+  5. **2018** - Run 1 continuation of the Original C-Array @ 22 GHz with ~1" resolution (need to cite)
+  6. **2020** - Run 2 continutaion of the Original C-Array @ 22 GHz with ~1" resolution (need to cite)
