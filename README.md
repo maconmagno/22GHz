@@ -1,5 +1,9 @@
-# 22GHz
+# 22GHz Data Release 
 22 GHz Radio Data. Files should contain 1", 3", and 6" fits files.
+
+If any images are missing or if you would like a different lower resolution image feel free to email me at *[mmagno@smu.edu]* or post in the [Discussions Tab](https://github.com/maconmagno/22GHz/discussions)
+
+
 Current BASS Radio Surveys: 
   1. 2013 - Original C-Array Survey @ 22 GHz with ~1" resolution
   2. 2014 - Low Z Survey @ 22 GHz with ~1" resolution
