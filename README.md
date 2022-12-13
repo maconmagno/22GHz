@@ -1,5 +1,5 @@
 # 22GHz Data Release 
-###22 GHz Radio Data of The BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)) . Files should contain 1", 3", and 6" fits files.
+*22 GHz Radio Data of The BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)) . Files should contain 1", 3", and 6" fits files.*
 
 If any images are missing or if you would like a different lower resolution image feel free to email me at [mmagno@smu.edu] or post in the [Discussions Tab](https://github.com/maconmagno/22GHz/discussions) for this data release. 
 
