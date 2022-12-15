@@ -13,5 +13,5 @@ https://doi.org/10.3847/0004-637X/832/2/163)
   3. **2015** - B-Array Survey @ 22GHz with ~0.3" resolution- Program Number, PI: Name - Reference: [Smith et al. (2016)]( 	
 https://doi.org/10.3847/0004-637X/832/2/163)
   4. **2017** - Continuation of the Original C-Array @ 22 GHz with ~1" resolution - Program Number, PI: Name - Reference: [Smith et al. (2020)](https://doi.org/10.1093/mnras/stz3608)
-  5. **2018** - Run 1 continuation of the Original C-Array @ 22 GHz with ~1" resolution (need to cite) - Program Number, PI: Name - Reference: Magno et al. (2023) (in prep)
-  6. **2020** - Run 2 continutaion of the Original C-Array @ 22 GHz with ~1" resolution (need to cite) - Program Number, PI: Name - Reference: Magno et al. 2023 (in prep)
+  5. **2018** - Run 1 continuation of the Original C-Array @ 22 GHz with ~1" resolution - Program Number, PI: Name - Reference: Magno et al. (2023) (in prep)
+  6. **2020** - Run 2 continutaion of the Original C-Array @ 22 GHz with ~1" resolution - Program Number, PI: Name - Reference: Magno et al. 2023 (in prep)
