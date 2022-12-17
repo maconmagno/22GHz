@@ -6,7 +6,7 @@ If any images are missing or if you would like a different lower resolution imag
 I would also be happy to answer any questions about the images through email or through the Discussions on GitHub. 
 
 Current BASS Radio Surveys through the Very Large Array (VLA) in the K-band ([VLA Configurations](https://science.nrao.edu/facilities/vla/docs/manuals/oss/performance/resolution)): 
-  1. **2013** - Original C-Array Survey @ 22 GHz with ~1" resolution - Program Number, PI: Name - Reference: [Smith et al. (2016)]( 	
+  1. **2013** - Original C-Array Survey @ 22 GHz with ~1" resolution - Program Name: *The Origin of Far-Infrared Radiation in AGN*, Program Number: 13A-281, PI: Richard Mushotzky - Reference: [Smith et al. (2016)]( 	
 https://doi.org/10.3847/0004-637X/832/2/163)
   2. **2014** - Low Z Survey @ 22 GHz with ~1" resolution - Program Number: 15A-431, PI: Krista L. Smith - Reference: [Smith et al. (2016)]( 	
 https://doi.org/10.3847/0004-637X/832/2/163)
