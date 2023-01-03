@@ -1,5 +1,5 @@
 # 22GHz Data Release 
-**22 GHz Radio Data of The BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)). The native resolution of our observations is 1" (unless we observed in B-array, then it would be 0.3"). We also produce UV-tapered images with 3" and 6" resolution. In addition, each object should have a preview image displaying our 22 GHz image.**
+**22 GHz Radio Data of The BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)). The native resolution of our observations is 1" (unless we observed in B-array, then it would be 0.3"). We also produce UV-tapered images with 3" and 6" resolution. In addition, each object should have a preview image displaying our 22 GHz data.**
 
 If any images are missing or if you would like a different lower resolution image feel free to email me at [mmagno@smu.edu] or post in the [Discussions Tab](https://github.com/maconmagno/22GHz/discussions) for this data release. 
 
