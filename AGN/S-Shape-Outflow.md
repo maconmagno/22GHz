@@ -1,7 +1,7 @@
-# Radio Companions List
+# S-Shape Outflow List
 
 
-This is a list of all objects that have another radio source present in one of the images. 
+This is a list of all objects that have an S-Shape to their outflow.
 
-1. 2MASXJ03540948+0249307
-2. 2MASXJ01064523+0638015
+1. 2MASXJ04234080%2B0408017
+2. 
