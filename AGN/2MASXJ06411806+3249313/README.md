@@ -1,1 +1,4 @@
+Preview of 2MASXJ06411806+3249313 is shown below. The black contours represent the 1" image. 
+
+![2MASXJ06411806+3249313](2MASXJ06411806+3249313.png "2MASXJ06411806+3249313-2018")
 
