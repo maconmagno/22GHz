@@ -1,4 +1,4 @@
-# Jet-like list
+# Jet-like Outflows
 
 This is a list of all objects that have an jet-like shape to their outflow.
 
