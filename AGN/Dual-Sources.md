@@ -1,7 +1,7 @@
 # Radio Companions List
 
 
-This is a list of all objects that have another radio source present in one of the images. 
+This is a list of all objects that have something representing a dual nucleus in its image. 
 
-1. 2MASXJ03540948+0249307
-2. 2MASXJ01064523+0638015
+1. 2MASX J01064523+0638015
+
