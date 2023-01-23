@@ -1,7 +1,6 @@
 # Unresolved Sources
 
+This is a list of all objects that have an jet-like shape to their outflow.
 
-This is a list of all objects that are unresolved. We used a comparison between the peak and integrated flux to determine this.
+1.
 
-1. 
-2. 
