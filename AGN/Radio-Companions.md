@@ -5,3 +5,4 @@ This is a list of all objects that have another radio source present in one of t
 
 1. 2MASXJ03540948+0249307
 2. 2MASXJ01064523+0638015
+3. 2MASXJ11454045-1827149
