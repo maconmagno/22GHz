@@ -1,9 +1,9 @@
-# Jet-like Outflows
+# Extended Outflows
 
-This is a list of all objects that have an jet-like shape to their outflow.
+This is a list of all objects that have a non-linear outflow present.
 
-1. 1RXSJ045205.0+493248
-2. 2MASXJ01073963-1139117
+1. 2MASXJ03534246+3714077
+2. 
 3. 
 4. 
 
