@@ -8,4 +8,5 @@ This is a list of all objects that have a non-linear outflow present.
 4. 2MASXJ12005792+0648226
 5. 2MASXJ12335145-2103448
 6. 2MASXJ13411287-1438407
+7. 2MASXJ14530794+2554327
 
