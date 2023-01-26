@@ -7,4 +7,5 @@ This is a list of all objects that have an jet-like shape to their outflow.
 3. 2MASXJ09254750+6927532
 4. 2MASXJ01064523+0638015
 5. 2MASXJ11454045-1827149
+6. 2MFGC2280
 
