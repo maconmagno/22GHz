@@ -12,4 +12,5 @@ This is a list of all objects that have a non-linear outflow present.
 8. 2MASXJ19373299-0613046
 9. 2MASXJ20005575-1810274
 10. 2MASXJ20183871+4041003
+11. CGCG341-006
 
