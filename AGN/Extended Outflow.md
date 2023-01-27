@@ -29,3 +29,4 @@ This is a list of all objects that have a non-linear outflow present.
 25. IC2637
 26. IC4329A
 27. IIZw83
+28. IRAS04124-0803
