@@ -26,3 +26,4 @@ This is a list of all objects that have a non-linear outflow present.
 22. ESO565-G019
 23. Fairall272
 24. IC0486
+25. IC2637
