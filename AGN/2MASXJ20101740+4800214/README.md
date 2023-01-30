@@ -1,3 +1,3 @@
-Preview of 2MASXJ20101740+4800214 is shown below. The black contours represent the 1" image. 
+Preview of 2MASXJ20101740+4800214 is shown below. The black contours represent the 2020 - 1" image. 
 
 ![2MASXJ20101740+4800214](2MASXJ20101740+4800214.png "2MASXJ20101740+4800214")
