@@ -1,3 +1,3 @@
-Preview of 2MASXJ16481523-3035037 is shown below. The black contours represent the 1" image. 
+Preview of 2MASXJ16481523-3035037 is shown below. The black contours represent the 2020 - 1" image. 
 
 ![2MASXJ16481523-3035037](2MASXJ16481523-3035037.png "2MASXJ16481523-3035037")
