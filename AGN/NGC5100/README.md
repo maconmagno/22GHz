@@ -1,4 +1,4 @@
-Preview of NGC50 is shown below. The black contours represent the 1" image. 
+Preview of NGC5100 is shown below. The black contours represent the 1" image. 
 
-![CGCG367-009](CGCG367-009.png "CGCG367-009")
+![NGC5100](NGC5100.png "NGC5100")
 
