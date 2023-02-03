@@ -1,1 +1,3 @@
-Self-calibrating this object didn't get rid of the artifacts that are present. There's also some faint rfi banding present in the 3" and 6" images. 
+Preview of Mrk348 is shown below. The black contours represent the 1" image. 
+
+![Mrk348](Mrk348.png "Mrk348")
