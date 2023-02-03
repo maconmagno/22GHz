@@ -1,1 +1,3 @@
-Something is horribly wrong with this image. I can't seem to figure out what happened, and how to fix it. Any input is appreciated. The 1" image is fine with some faint RFI in the background. The 3" and 6" images should not be used. 
+Preview of MCG+00-09-042 is shown below. The black contours represent the 1" image. 
+
+![MCG+00-09-042](MCG+00-09-042.png "MCG+00-09-042")
