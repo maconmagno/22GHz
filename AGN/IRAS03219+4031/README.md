@@ -1,5 +1,5 @@
-At 22 GHz, we have a non-detection for IRAS 03219+4031.
+At 22 GHz, we have a mis-pointing for IRAS 03219+4031. The actual galaxy is a bit to the right of this image. 
 
-Preview of IRAS 03219+4031 is shown below.
+Preview of the 'background' is shown below.
 
 ![IRAS03219+4031](IRAS03219+4031.png "IRAS03219+4031")
