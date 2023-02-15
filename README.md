@@ -1,6 +1,9 @@
 # 22GHz Data Release 
 **22 GHz Radio Data of The BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)). The native resolution of our observations is 1" (unless we observed in B-array, then it would be 0.3"). We also produce UV-tapered images with 3" and 6" resolution. In addition, each object should have a preview image displaying our 22 GHz data.**
 
+The first number in the file name (e.g. '1196' in 1196_2MASXJ23272195+1524375) represents the BAT ID from the 105 month survey. If there is no number in front of the galaxy name (e.g. Mrk202), then it is from the 57 month ***Swift-BAT*** Survey. 
+
+
 If any images are missing or if you would like a different lower resolution image feel free to email me at [mmagno@smu.edu] or post in the [Discussions Tab](https://github.com/maconmagno/22GHz/discussions) for this data release. 
 
 I would also be happy to answer any questions about the images through email or through the Discussions on GitHub. 
