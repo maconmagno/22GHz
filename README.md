@@ -22,4 +22,4 @@ Current BASS Radio Surveys through the Very Large Array (VLA) in the K-band ([VL
   
   6. **2018** - Run 1 continuation of the Original C-Array Survey @ 22 GHz with ~1" resolution - Program Name: *The Last Piece of the Puzzle: A JVLA Radio Atlas of the BAT AGN Legacy Survey*, Program Number: 18B-245, PI: Krista Smith - Reference: Magno et al. (2023) (in prep)
 
-  8. **2020** - Run 2 continutaion of the Original C-Array Survey @ 22 GHz with ~1" resolution - Program Name: *The Last Piece of the Puzzle: A JVLA Radio Atlas of the BAT AGN Legacy Survey II*, Program Number: 20A-158, PI: Krista Smith - Reference: Magno et al. 2023 (in prep)
+  8. **2020** - Run 2 continutaion of the Original C-Array Survey @ 22 GHz with ~1" resolution - Program Name: *The Last Piece of the Puzzle: A JVLA Radio Atlas of the BAT AGN Legacy Survey II*, Program Number: 20A-158, PI: Krista Smith - Reference: Magno et al. (2023) (in prep)
