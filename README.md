@@ -4,7 +4,7 @@
 The first number in the file name (e.g. '1196' in 1196_2MASXJ23272195+1524375) represents the BAT ID from the 105 month survey. If there is no number in front of the galaxy name (e.g. Mrk202), then it is from the 58 month _Swift-BAT_ Survey. 
 
 
-If any images are missing or if you would like a different lower resolution image feel free to email me at [mmagno@smu.edu] or post in the [Discussions Tab](https://github.com/maconmagno/22GHz/discussions) for this data release. 
+If any images are missing or if you would like a different lower resolution image feel free to email me at [macon.a.magno@gmail.com] or post in the [Discussions Tab](https://github.com/maconmagno/22GHz/discussions) for this data release. 
 
 I would also be happy to answer any questions about the images through email or through the Discussions on GitHub. 
 
