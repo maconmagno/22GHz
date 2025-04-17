@@ -3,9 +3,9 @@
 
 The first number in the file name (e.g. '1196' in 1196_2MASXJ23272195+1524375) represents the BAT ID from the 105 month survey. If there is no number in front of the galaxy name (e.g. Mrk202), then it is from the 58 month _Swift-BAT_ Survey. 
 
-
 If any images are missing or if you would like a different lower resolution image feel free to email me at [macon.a.magno@gmail.com] or post in the [Discussions Tab](https://github.com/maconmagno/22GHz/discussions) for this data release. 
 
+# Image Info
 I would also be happy to answer any questions about the images through email or through the Discussions on GitHub. 
 
 Current BASS Radio Surveys through the Very Large Array (VLA) in the K-band ([VLA Configurations](https://science.nrao.edu/facilities/vla/docs/manuals/oss/performance/resolution)): 
@@ -22,6 +22,7 @@ Current BASS Radio Surveys through the Very Large Array (VLA) in the K-band ([VL
   
   6. **2018** - Run 1 continuation of the Original C-Array Survey @ 22 GHz with ~1" resolution - Program Name: *The Last Piece of the Puzzle: A JVLA Radio Atlas of the BAT AGN Legacy Survey*, Program Number: 18B-245, PI: Krista Smith - Reference: [Magno et al. (2025)](https://www.doi.org/10.3847/1538-4357/adb1e7)
 
-    10.3847/1538-4357/adb1e7
-
   8. **2020** - Run 2 continutaion of the Original C-Array Survey @ 22 GHz with ~1" resolution - Program Name: *The Last Piece of the Puzzle: A JVLA Radio Atlas of the BAT AGN Legacy Survey II*, Program Number: 20A-158, PI: Krista Smith - Reference: [Magno et al. (2025)](https://www.doi.org/10.3847/1538-4357/adb1e7)
+
+# Credits
+If you end up using any of these images, we would love it if you would cite the above papers and provide a link to this repository. 
