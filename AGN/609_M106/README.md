@@ -1,4 +1,4 @@
-Preview of M106 is shown below. The green contours represent the 1" image. 
+Preview of M106 is shown below. The green contours represent the 1" image. The order of the images are 3" (left), 6" (middle), and 1" (right).
 
 ![M106](M106.png "M106")
 
